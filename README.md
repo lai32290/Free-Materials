@@ -13,3 +13,7 @@ materials about programing or technologies.
 [AngularJS (Rodrigo Branas)](http://ilovecode.com.br/curso-sobre-angulajs-em-portugues/)
 
 [Animation (Pixar & Khan Academy)](https://www.khanacademy.org/partner-content/pixar)
+
+[Começando com React.js (JsCasts)](http://jscasts.teachable.com/courses/comecando-com-react-js)
+
+[React.js com ES6 (JsCasts)](http://jscasts.teachable.com/courses/react-js-com-es6)
