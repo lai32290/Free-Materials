@@ -17,3 +17,5 @@ materials about programing or technologies.
 [Começando com React.js (JsCasts)](http://jscasts.teachable.com/courses/comecando-com-react-js)
 
 [React.js com ES6 (JsCasts)](http://jscasts.teachable.com/courses/react-js-com-es6)
+
+[Doid na Veia (Diego Muguet)(PT-BR)](http://www.droidnaveia.com.br/)
