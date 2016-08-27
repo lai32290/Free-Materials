@@ -18,4 +18,6 @@ materials about programing or technologies.
 
 [React.js com ES6 (JsCasts)](http://jscasts.teachable.com/courses/react-js-com-es6)
 
-[Droid na Veia (Diego Muguet)(PT-BR)](http://www.droidnaveia.com.br/)
+[Droid na Veia (Diego Muguet)](http://www.droidnaveia.com.br/)
+
+[Iniciando com Laravel (Matheus Mariano)](https://www.schoolofnet.com/courses/iniciando-com-laravel)
